@@ -1,5 +1,5 @@
 # FeatureDummyApp
-An App for feature testing with Fuse (https://www.fusetools.com/).
+An app for feature testing with Fuse (https://www.fusetools.com/).
 
 In the app are the following features available and testet:
 1.GeoLoaction
