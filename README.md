@@ -13,3 +13,5 @@ In the app are the following features available and testet:
 
 
 I create the app for my bachelor thesis and exactly the same app with Xcode and Swift. I compared both apps in my thesis.
+
+It would be great if someone would write the same app for android and compare it with the native fusetools app!!
